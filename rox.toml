@@ -1,5 +1,6 @@
 name = "Rox"
 authors = ["muppi090909"]
+git = "https://github.com/muppi090909/rox-test"
 
 [[version]]
 dependencies = ["xxx/yyy"]
